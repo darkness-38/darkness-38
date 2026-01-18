@@ -53,8 +53,6 @@ An interactive map website aiming to easily rescue the persons in case of an ear
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkness-38&theme=null" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/darkness-38/count.svg?" alt="visitors count" />
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkness-38&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
