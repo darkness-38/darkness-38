@@ -1,22 +1,61 @@
-# 💫 About Me:
-🔭 I’m currently working on my own Android app<br>👯 I’m looking to collaborate on various web designing projects<br>🌱 I’m currently learning web development<br>💬 Ask me about nothing<br>
+# Hello Otakus 👋, I'm Hamza Mert Daşdemir
+### Student
 
+I am a software developer with a strong focus on system customization, game logic, and open-source environments. My technical expertise includes building tailored Java-based plugins for Minecraft (Paper/Spigot API) and developing interactive web applications using HTML5.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/someoneedits39) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/YourDarkestFear) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@snox.ies) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:someoneteachs@gmail.com) 
+I have a deep interest in Arch Linux and system-level configurations, reflecting my preference for modular and efficient software design. Outside of my primary development work, I follow Formula 1 closely and maintain an interest in the creative intersections of technology and digital art, such as the Vocaloid/UTAU ecosystem. I am driven by a commitment to clean code, efficient systems, and continuous learning.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darkness-38&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=darkness-38&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkness-38&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## Contact Me
+<p><a href="rasegames.qzz.io" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="www.tiktok.com/@snox.ies" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.instagram.com/piri_dublaj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Skills
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=darkness-38&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+</p>
+
+## Projects
+
+### RaseGames
+
+It is a website that has both educational experiments and multiplayer/singleplayer games.
+
+[View Project](https://github.com/darkness-38)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darkness-38&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Hacı Ayşe Ateş High School Website
+
+A website for my high school
+
+[View Project](https://github.com/darkness-38/haciayseates)
+
+---
+
+### resQmap
+
+An interactive map website aiming to easily rescue the persons in case of an earthquake.
+
+[View Project](https://github.com/darkness-38/resQmap)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=darkness-38&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkness-38&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darkness-38&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/darkness-38/count.svg?" alt="visitors count" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darkness-38&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
