@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my own Android app<br>👯 I’m looking to collaborate on various web designing projects<br>🤝 I’m looking for help with creating my own distro<br>🌱 I’m currently learning web development<br>💬 Ask me about nothing<br>
+🔭 I’m currently working on my own Android app<br>👯 I’m looking to collaborate on various web designing projects<br>🌱 I’m currently learning web development<br>💬 Ask me about nothing<br>
 
 
 ## 🌐 Socials:
