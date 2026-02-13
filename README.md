@@ -6,7 +6,7 @@ I am a software developer with a strong focus on system customization, game logi
 I have a deep interest in Arch Linux and system-level configurations, reflecting my preference for modular and efficient software design. Outside of my primary development work, I follow Formula 1 closely and maintain an interest in the creative intersections of technology and digital art, such as the Vocaloid/UTAU ecosystem. I am driven by a commitment to clean code, efficient systems, and continuous learning.
 
 ## Contact Me
-<p><a href="iloveteto.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="www.tiktok.com/@snox.ies" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.instagram.com/piri_dublaj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://iloveteto.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.tiktok.com/@snox.ies" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> <a href="https://www.instagram.com/piri_dublaj/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
 
