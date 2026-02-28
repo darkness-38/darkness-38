@@ -19,37 +19,7 @@ I have a deep interest in Arch Linux and system-level configurations, reflecting
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects
-
-### RaseGames
-
-It is a website that has both educational experiments and multiplayer/singleplayer games.
-
-[View Project](https://github.com/darkness-38)
-
----
-
-### Hacı Ayşe Ateş High School Website
-
-A website for my high school
-
-[View Project](https://github.com/darkness-38/haciayseates)
-
----
-
-### resQmap
-
-An interactive map website aiming to easily rescue the persons in case of an earthquake.
-
-[View Project](https://github.com/darkness-38/resQmap)
-
----
-
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=darkness-38&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkness-38&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkness-38&theme=null" alt="GitHub Streak" />
 
