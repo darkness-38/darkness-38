@@ -1,4 +1,4 @@
-# Hello Otakus 👋, I'm Hamza
+# Hello Otakus 👋, I'm Betül
 ### Student
 
 I am a software developer with a strong focus on system customization, game logic, and open-source environments. My technical expertise includes building tailored Java-based plugins for Minecraft (Paper/Spigot API) and developing interactive web applications using HTML5.
