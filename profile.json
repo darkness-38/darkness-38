@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "login": "darkness-38",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "wave",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hidden": [
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "teto",
+    "subtitle": "I do computer stuff",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Türkiye"
+      },
+      {
+        "icon": "code",
+        "label": "Fullstack Developer"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      },
+      {
+        "icon": "favorite",
+        "label": "Loves watching anime"
+      },
+      {
+        "icon": "numbers",
+        "label": "Working on computational number theory"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "Node.js"
+          },
+          {
+            "icon": "brand:nextdotjs",
+            "label": "Next.js"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:tailwindcss",
+            "label": "Tailwind CSS"
+          },
+          {
+            "icon": "brand:latex",
+            "label": "LaTeX"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "prime_hunter",
+      "hyper-lll"
+    ],
+    "overrides": {
+      "raseplus": {
+        "text": "Feature rich"
+      },
+      "prime_hunter": {
+        "text": "High-performance AVX2 SIMD sieve for prime-generating cubic polynomial search"
+      },
+      "hyper-lll": {
+        "text": "Arbitrary-precision LLL lattice reduction & automated WZ proof engine in pure Rust"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/teto_verse"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@snox.ies"
+      },
+      {
+        "icon": "link",
+        "url": "https://iloveteto.com"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

@@ -1,63 +1,21 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F43F6E&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Hamza+Mert+Da%C5%9Fdemir+%F0%9F%91%8B;Computational+Number+Theory+%26+Experimental+Math;Pure+Rust+Systems+%26+Algorithmic+Engines;Linux+%26+Low-Level+Architecture" alt="Typing SVG" />
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:someoneteachs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-f43f6e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.tiktok.com/@snox.ies" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m teto"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="22.935%" alt=""></picture><a href="https://discord.com/teto_verse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://www.tiktok.com/@snox.ies"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="15.488%" alt="tiktok"></picture></a><a href="https://iloveteto.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="22.088%" alt="link"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="22.935%" alt=""></picture>
 
-### 🔬 Research & Key Focus
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-I am an independent researcher and software builder specializing in **computational number theory, high-precision integer relations, and low-level systems**.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-* 🦀 **Experimental Mathematics:** Creator of **`hyper-lll`**, an arbitrary-precision (230-digit) LLL lattice reduction and automated Wilf–Zeilberger (WZ) algorithmic proof engine in pure Rust.
-* 📐 **Recent Milestones:** Discovered accelerated Calabi–Yau series for Catalan's constant $G$, $\zeta(3)$, and $\pi^4$, formally endorsed by Doron Zeilberger for arXiv (`math.NT` / `math.CO`).
-* 🐧 **Systems & OS:** Advanced customization on **Arch Linux / CachyOS**, kernel tuning, and modular low-level architectures.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
----
+<a href="https://github.com/darkness-38/prime_hunter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-prime-hunter-dark.svg"><img src="assets/project-prime-hunter-light.svg" width="49%" alt="prime_hunter"></picture></a>&nbsp;<a href="https://github.com/darkness-38/hyper-lll"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hyper-lll-dark.svg"><img src="assets/project-hyper-lll-light.svg" width="49%" alt="hyper-lll"></picture></a>
 
-### 🛠️ Skills & Technologies
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<p align="center">
-  <b>Languages & Core:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-<p align="center">
-  <b>Systems & Infrastructure:</b><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" alt="archlinux" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="38" height="38"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="38" height="38"/>
-</p>
+<a href="https://metawka.github.io/expressive-profile/?from=darkness-38"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkness-38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f43f6e&icon_color=f43f6e" alt="Hamza's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkness-38&theme=tokyonight&hide_border=true&background=0D1117&ring=f43f6e&fire=f43f6e" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darkness-38/darkness-38/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darkness-38/darkness-38/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/darkness-38/darkness-38/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+</div>
