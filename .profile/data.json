@@ -1,0 +1,465 @@
+{
+ "key": "eb63098b",
+ "stars": 6,
+ "contributions": 582,
+ "repos": 31,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   983871
+  ],
+  [
+   "JavaScript",
+   978954
+  ],
+  [
+   "Rust",
+   869217
+  ],
+  [
+   "HTML",
+   781340
+  ],
+  [
+   "CSS",
+   201517
+  ],
+  [
+   "C",
+   197587
+  ],
+  [
+   "Kotlin",
+   122881
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 12,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 29,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 8
+ },
+ "pins": [
+  {
+   "name": "prime_hunter",
+   "url": "https://github.com/darkness-38/prime_hunter",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "lemniscate-pcf-miner",
+   "url": "https://github.com/darkness-38/lemniscate-pcf-miner",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hyper-lll",
+   "url": "https://github.com/darkness-38/hyper-lll",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "counter-hunter",
+   "url": "https://github.com/darkness-38/counter-hunter",
+   "text": "Bit-Parallel Counterexample Hunter for Zhi-Wei Sun & Erdős Conjectures in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "prime_hunter",
+   "url": "https://github.com/darkness-38/prime_hunter",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Rase-Launcher",
+   "url": "https://github.com/darkness-38/Rase-Launcher",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "heyosx",
+   "url": "https://github.com/darkness-38/heyosx",
+   "text": "heyDE not working at the moment, wait for next changes or use it without heyDE",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "raseplus",
+   "url": "https://github.com/darkness-38/raseplus",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "cardly",
+   "url": "https://github.com/darkness-38/cardly",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "heyos",
+   "url": "https://github.com/darkness-38/heyos",
+   "text": "custom windows os",
+   "fork": false,
+   "stars": 1,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "riff",
+   "url": "https://github.com/darkness-38/riff",
+   "text": "Your best desktop music player.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "counter-hunter",
+   "url": "https://github.com/darkness-38/counter-hunter",
+   "text": "Bit-Parallel Counterexample Hunter for Zhi-Wei Sun & Erdős Conjectures in Rust",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "hyper-lll",
+   "url": "https://github.com/darkness-38/hyper-lll",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "lemniscate-pcf-miner",
+   "url": "https://github.com/darkness-38/lemniscate-pcf-miner",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "tesicbot",
+   "url": "https://github.com/darkness-38/tesicbot",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rasedigitall",
+   "url": "https://github.com/darkness-38/rasedigitall",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Subify",
+   "url": "https://github.com/darkness-38/Subify",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "vexusmc",
+   "url": "https://github.com/darkness-38/vexusmc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "binance-clone",
+   "url": "https://github.com/darkness-38/binance-clone",
+   "text": "Binance Next.js Application (Only Desktop)",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "haaal-school-forum-1",
+   "url": "https://github.com/darkness-38/haaal-school-forum-1",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "rasedijital",
+   "url": "https://github.com/darkness-38/rasedijital",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rasedigital",
+   "url": "https://github.com/darkness-38/rasedigital",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rasechat",
+   "url": "https://github.com/darkness-38/rasechat",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "chat-simulator",
+   "url": "https://github.com/darkness-38/chat-simulator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "haaal-school-forum",
+   "url": "https://github.com/darkness-38/haaal-school-forum",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "iloveteto",
+   "url": "https://github.com/darkness-38/iloveteto",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "rasegames",
+   "url": "https://github.com/darkness-38/rasegames",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "rb19",
+   "url": "https://github.com/darkness-38/rb19",
+   "text": "interactive website with working shaders",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "darkness-38",
+   "url": "https://github.com/darkness-38/darkness-38",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "haciayseates",
+   "url": "https://github.com/darkness-38/haciayseates",
+   "text": "An interactive website for Hacı Ayşe Ateş Anatolian High School and its Coding Club",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "transTR",
+   "url": "https://github.com/darkness-38/transTR",
+   "text": "Turkish commands for archlinux",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "EcoPulse",
+   "url": "https://github.com/darkness-38/EcoPulse",
+   "text": "An interactive web platform that displays environmental changes around the world (such as temperature increase, CO₂ emissions, deforestation, air quality) in real time and allows users to raise awareness based on this data.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "OlevixRadio",
+   "url": "https://github.com/darkness-38/OlevixRadio",
+   "text": "Interactive and mobile friendly website for streaming live radio broadcasts that uses azuracast.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "SpaceXLearning",
+   "url": "https://github.com/darkness-38/SpaceXLearning",
+   "text": "An interactive website for aiming to teach space to secondary school students.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "resQmap",
+   "url": "https://github.com/darkness-38/resQmap",
+   "text": "An interactive map website aiming to rescue the persons in case of an earthquake.",
+   "fork": false,
+   "stars": 0,
+   "language": "EJS",
+   "topics": []
+  }
+ ]
+}
