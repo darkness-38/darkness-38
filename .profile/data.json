@@ -1,29 +1,29 @@
 {
- "key": "2489ce78",
- "stars": 6,
- "contributions": 587,
- "repos": 31,
+ "key": "98182169",
+ "stars": 7,
+ "contributions": 606,
+ "repos": 33,
  "followers": 1,
  "languages": [
   [
-   "TypeScript",
-   983871
+   "JavaScript",
+   2707386
   ],
   [
-   "JavaScript",
-   978954
+   "HTML",
+   1142399
+  ],
+  [
+   "TypeScript",
+   983871
   ],
   [
    "Rust",
    869217
   ],
   [
-   "HTML",
-   781340
-  ],
-  [
    "CSS",
-   201517
+   522615
   ],
   [
    "C",
@@ -131,24 +131,24 @@
     "today": false
    },
    {
-    "c": 12,
+    "c": 13,
     "day": 29,
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 30,
     "today": false
    },
    {
-    "c": 0,
+    "c": 17,
     "day": 31,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 8
  },
  "pins": [
@@ -162,15 +162,6 @@
    "topics": []
   },
   {
-   "name": "lemniscate-pcf-miner",
-   "url": "https://github.com/darkness-38/lemniscate-pcf-miner",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Rust",
-   "topics": []
-  },
-  {
    "name": "hyper-lll",
    "url": "https://github.com/darkness-38/hyper-lll",
    "text": "",
@@ -180,16 +171,25 @@
    "topics": []
   },
   {
-   "name": "counter-hunter",
-   "url": "https://github.com/darkness-38/counter-hunter",
-   "text": "Bit-Parallel Counterexample Hunter for Zhi-Wei Sun & Erdős Conjectures in Rust",
+   "name": "Raser",
+   "url": "https://github.com/darkness-38/Raser",
+   "text": "A high-performance, modern, telemetry-free desktop music player with Material Design.",
    "fork": false,
-   "stars": 0,
-   "language": "Rust",
+   "stars": 1,
+   "language": "JavaScript",
    "topics": []
   }
  ],
  "all": [
+  {
+   "name": "Raser",
+   "url": "https://github.com/darkness-38/Raser",
+   "text": "A high-performance, modern, telemetry-free desktop music player with Material Design.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
   {
    "name": "prime_hunter",
    "url": "https://github.com/darkness-38/prime_hunter",
@@ -242,6 +242,15 @@
    "fork": false,
    "stars": 1,
    "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "register",
+   "url": "https://github.com/darkness-38/register",
+   "text": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
    "topics": []
   },
   {
