@@ -1,13 +1,13 @@
 {
- "key": "f3ca91a7",
- "stars": 7,
- "contributions": 606,
+ "key": "f61a0e52",
+ "stars": 3,
+ "contributions": 611,
  "repos": 33,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   2707386
+   2711208
   ],
   [
    "HTML",
@@ -111,7 +111,7 @@
   ],
   [
    {
-    "c": 0,
+    "c": 5,
     "day": 1,
     "today": true
    },
@@ -124,7 +124,7 @@
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 8
  },
  "pins": [
@@ -182,42 +182,6 @@
    "fork": false,
    "stars": 1,
    "language": null,
-   "topics": []
-  },
-  {
-   "name": "heyosx",
-   "url": "https://github.com/darkness-38/heyosx",
-   "text": "heyDE not working at the moment, wait for next changes or use it without heyDE",
-   "fork": false,
-   "stars": 1,
-   "language": "C",
-   "topics": []
-  },
-  {
-   "name": "raseplus",
-   "url": "https://github.com/darkness-38/raseplus",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "cardly",
-   "url": "https://github.com/darkness-38/cardly",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "heyos",
-   "url": "https://github.com/darkness-38/heyos",
-   "text": "custom windows os",
-   "fork": false,
-   "stars": 1,
-   "language": "Batchfile",
    "topics": []
   },
   {
@@ -356,6 +320,24 @@
    "topics": []
   },
   {
+   "name": "heyosx",
+   "url": "https://github.com/darkness-38/heyosx",
+   "text": "heyDE not working at the moment, wait for next changes or use it without heyDE",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "raseplus",
+   "url": "https://github.com/darkness-38/raseplus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
    "name": "haaal-school-forum",
    "url": "https://github.com/darkness-38/haaal-school-forum",
    "text": "",
@@ -374,12 +356,30 @@
    "topics": []
   },
   {
+   "name": "cardly",
+   "url": "https://github.com/darkness-38/cardly",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
    "name": "rasegames",
    "url": "https://github.com/darkness-38/rasegames",
    "text": "",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "heyos",
+   "url": "https://github.com/darkness-38/heyos",
+   "text": "custom windows os",
+   "fork": false,
+   "stars": 0,
+   "language": "Batchfile",
    "topics": []
   },
   {
